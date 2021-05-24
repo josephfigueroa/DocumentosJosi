@@ -6,6 +6,12 @@
  */
 public class Main {
 	public static void main(String[] args) {
-		System.out.println("Hola Git Hub");
+		System.
+		out.
+		println("¡Pitchea el Setup!");
+		
+		System.
+		out.
+		println("Disfruta donde estas");
 	}
 }
